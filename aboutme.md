@@ -1,17 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle:
-bigimg: /img/profile.jpg
+subtitle: 
+bigimg: "/img/profile.jpg"
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey, I’m Karina. I’m a petroleum engineering.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Not too long ago I was searching for a learning path to follow, to overcome my impressions about the moral case of fossil fuels. Found a couple of courses online and sign up. Actually I am motivated to do many cool things related to data science and machine learning.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Expecting to share my experience trough it with you folks !
