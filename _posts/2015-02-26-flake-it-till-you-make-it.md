@@ -1,14 +1,41 @@
 ---
-layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
+layout: Post
+title: Motivation
+subtitle: Five steps to get yourself unstuck in the middle
+bigimg: "/img/path.png"
+tags:
+- motivation 
+- steps
+
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?  
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.  
+For a time, like many, I thought we had to focus ourselves on the outcome. It is easy to get caught in the joy of daydreaming, that sense of breathtaking possibility about what it might happen if we succeed. However, visualizing ourselves achieving our goals will not make the path in between less blurry.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.  
+Certain things you own to yourself to grasp the most of it. As long as you don’t get distracted envisioning yourself into the sweetness and treats, you could spend more time thinking, asking incisive questions about the path to follow, adjusting your belief, to keep you motivated. A good part of being able to identify and divide our goals into smaller ones is to visualize ourselves in the core process. That is, in fact, the real job we need to do.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Of course, this skill doesn’t come easy for most of the people. As we shall see, breaking down our objectives will help us understand these affairs.
+
+We might be more likely commit to a midterm goal that can be the jack-of-all-trades we needed to pursue our path towards higher peaks. As we become aware of midpoints in our route towards climbing higher mountains, we will value the most the perks and small rewards through it..
+
+### **The shy beetle writes**
+
+It seems even warily the way we refer to our needs and inner desires. As much as I wanted to believe that we are fearless towards our goals, soon I came to notice that we are more like a shy beetle when we have to acknowledge or even speak of them out loud.
+
+Beetles tend to protect themselves each time their senses flash; they swing their wings to escape in a rapid flight, like them, we will hinge on our ability to enclose ourselves, to avoid detractors. — is built into their nature and also in ours.
+
+Be the shy beetle that writes.
+
+Manage yourself to write a draft, start with a few sentences to describe key-points that are easy to spot as you advance. Needless to say, the main purpose of these exercises rather than evaluate us — is to build a solid ground to get started.  
+![beetle write](/uploads/1.png "write")
+
+### **Unfold the magic**
+
+Some emotions will arise as we start to take a step further to carry out our goals. The same range of emotions is conveyed as we approached our deadline. We might feel somewhat overwhelmed or inadequate a feeling that surely you have been related to — as I have been.
+
+Partly due that we often rush into things to get them done, without thinking through. To achieve our goals is not a static two-fold process as we have been told. Instead, it is a dynamic process.in which we are embedded in from the very moment we decide to articulate them.
+
+We might assume that getting the big picture about our goals is going to bring us into sharp focus. However, it will prevent us from zoom-in, to pay attention to the details, as we submerge into unfolding our path. Whether and how to parse our path going to depend on the natural capacity of breaking down into pieces our main target.  
+If reaching a goal requires steps A, B, and C, to define the tasks for each step is fundamental, so we won't go and start blending all at the cost of spending vast amounts of energy and obtain poor results.  
+Framing our perspective to simplify the number of tasks we must perform per  
+Step and executing in a period is undoubtedly a better way to attain our goals. In other words: Avoid multi-tasking.
