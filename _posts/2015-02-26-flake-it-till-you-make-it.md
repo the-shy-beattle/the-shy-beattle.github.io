@@ -14,7 +14,7 @@ Certain things you own to yourself to grasp the most of it. As long as you donâ€
 
 Of course, this skill doesnâ€™t come easy for most of the people. As we shall see, breaking down our objectives will help us understand these affairs.
 
-We might be more likely commit to a midterm goal that can be the jack-of-all-trades we needed to pursue our path towards higher peaks. As we become aware of midpoints in our route towards climbing higher mountains, we will value the most the perks and small rewards through it.
+We might be more likely commit to a midterm goal that can be the jack-of-all-trades we needed to pursue our path towards higher peaks. As we become aware of midpoints in our route towards climbing higher mountains, we will value the most the perks and small rewards through it
 
 ### **The shy beetle write**
 
