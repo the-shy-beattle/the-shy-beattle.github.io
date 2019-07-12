@@ -24,6 +24,14 @@ Beetles tend to protect themselves each time their senses flash; they swing thei
 
 Be the shy beetle that writes.
 
-Manage yourself to write a draft, start with a few sentences to describe key-points that are easy to spot as you advance. Needless to say, the main purpose of these exercises rather than evaluate us — is to build a solid ground to get started.
+## Manage yourself to write a draft, start with a few sentences to describe key-points that are easy to spot as you advance. Needless to say, the main purpose of these exercises rather than evaluate us — is to build a solid ground to get started.  
+![](/uploads/1.png)**Unfold the magic**
 
-![](/uploads/1.png)
+Some emotions will arise as we start to take a step further to carry out our goals. The same range of emotions is conveyed as we approached our deadline. We might feel somewhat overwhelmed or inadequate a feeling that surely you have been related to — as I have been.
+
+Partly due that we often rush into things to get them done, without thinking through. To achieve our goals is not a static two-fold process as we have been told. Instead, it is a dynamic process.in which we are embedded in from the very moment we decide to articulate them.
+
+We might assume that getting the big picture about our goals is going to bring us into sharp focus. However, it will prevent us from zoom-in, to pay attention to the details, as we submerge into unfolding our path. Whether and how to parse our path going to depend on the natural capacity of breaking down into pieces our main target.  
+ If reaching a goal requires steps A, B, and C, to define the tasks for each step is fundamental, so we won't go and start blending all at the cost of spending vast amounts of energy and obtain poor results.  
+ Framing our perspective to simplify the number of tasks we must perform per  
+ Step and executing in a period is undoubtedly a better way to attain our goals. In other words: Avoid multi-tasking.
