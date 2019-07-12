@@ -33,6 +33,6 @@ Some emotions will arise as we start to take a step further to carry out our goa
 Partly due that we often rush into things to get them done, without thinking through. To achieve our goals is not a static two-fold process as we have been told. Instead, it is a dynamic process.in which we are embedded in from the very moment we decide to articulate them.
 
 We might assume that getting the big picture about our goals is going to bring us into sharp focus. However, it will prevent us from zoom-in, to pay attention to the details, as we submerge into unfolding our path. Whether and how to parse our path going to depend on the natural capacity of breaking down into pieces our main target.  
- If reaching a goal requires steps A, B, and C, to define the tasks for each step is fundamental, so we won't go and start blending all at the cost of spending vast amounts of energy and obtain poor results.  
- Framing our perspective to simplify the number of tasks we must perform per  
- Step and executing in a period is undoubtedly a better way to attain our goals. In other words: Avoid multi-tasking.
+If reaching a goal requires steps A, B, and C, to define the tasks for each step is fundamental, so we won't go and start blending all at the cost of spending vast amounts of energy and obtain poor results.  
+Framing our perspective to simplify the number of tasks we must perform per  
+Step and executing in a period is undoubtedly a better way to attain our goals. In other words: Avoid multi-tasking..
