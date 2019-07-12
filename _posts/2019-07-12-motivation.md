@@ -1,6 +1,6 @@
 ---
-layout: Quizlet
-title: Motivation
+layout: Pages
+title: Quizlet
 subtitle: Five steps to get yourself unstuck in the middle
 bigimg: "/img/path.png"
 tags:
