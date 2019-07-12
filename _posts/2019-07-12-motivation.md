@@ -35,4 +35,4 @@ Partly due that we often rush into things to get them done, without thinking thr
 We might assume that getting the big picture about our goals is going to bring us into sharp focus. However, it will prevent us from zoom-in, to pay attention to the details, as we submerge into unfolding our path. Whether and how to parse our path going to depend on the natural capacity of breaking down into pieces our main target.  
 If reaching a goal requires steps A, B, and C, to define the tasks for each step is fundamental, so we won't go and start blending all at the cost of spending vast amounts of energy and obtain poor results.  
 Framing our perspective to simplify the number of tasks we must perform per  
-Step and executing in a period is undoubtedly a better way to attain our goals. In other words: Avoid multi-tasking..
+Step and executing in a period is undoubtedly a better way to attain our goals. In other words: Avoid multi-tasking.
