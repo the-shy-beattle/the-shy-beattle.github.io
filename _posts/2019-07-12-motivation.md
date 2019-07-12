@@ -24,7 +24,7 @@ Beetles tend to protect themselves each time their senses flash; they swing thei
 Be the shy beetle that writes.
 
 Manage yourself to write a draft, start with a few sentences to describe key-points that are easy to spot as you advance. Needless to say, the main purpose of these exercises rather than evaluate us — is to build a solid ground to get started.  
-![](/uploads/1.png)
+![beetle write](/uploads/1.png "write")
 
 ### **Unfold the magic**
 
