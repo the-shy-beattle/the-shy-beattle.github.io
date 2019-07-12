@@ -24,8 +24,10 @@ Beetles tend to protect themselves each time their senses flash; they swing thei
 
 Be the shy beetle that writes.
 
-## Manage yourself to write a draft, start with a few sentences to describe key-points that are easy to spot as you advance. Needless to say, the main purpose of these exercises rather than evaluate us — is to build a solid ground to get started.  
-![](/uploads/1.png)**Unfold the magic**
+Manage yourself to write a draft, start with a few sentences to describe key-points that are easy to spot as you advance. Needless to say, the main purpose of these exercises rather than evaluate us — is to build a solid ground to get started.  
+![](/uploads/1.png)
+
+### **Unfold the magic**
 
 Some emotions will arise as we start to take a step further to carry out our goals. The same range of emotions is conveyed as we approached our deadline. We might feel somewhat overwhelmed or inadequate a feeling that surely you have been related to — as I have been.
 
