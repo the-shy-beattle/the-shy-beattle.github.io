@@ -9,7 +9,7 @@ tags:
 ---
 For a time, like many, I thought we had to focus ourselves on the outcome. It is easy to get caught in the joy of daydreaming, that sense of breathtaking possibility about what it might happen if we succeed. However, visualizing ourselves achieving our goals will not make the path in between less blurry.
 
-Certain things you own to yourself to grasp the most of it. As long as you don’t get distracted envisioning yourself into the sweetness and treats, you could spend more time thinking, asking incisive questions about the path to follow, adjusting your belief, to keep you motivated. A good part of being able to identify and divide our goals into smaller ones is to visualize ourselves in the core process. That is, in fact, the real job we need to do..
+Certain things you own to yourself to grasp the most of it. As long as you don’t get distracted envisioning yourself into the sweetness and treats, you could spend more time thinking, asking incisive questions about the path to follow, adjusting your belief, to keep you motivated. A good part of being able to identify and divide our goals into smaller ones is to visualize ourselves in the core process. That is, in fact, the real job we need to do.
 
 Of course, this skill doesn’t come easy for most of the people. As we shall see, breaking down our objectives will help us understand these affairs.
 
