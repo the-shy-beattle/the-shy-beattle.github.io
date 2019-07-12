@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: ''
 subtitle: 
 bigimg: "/img/profile.jpg"
 
