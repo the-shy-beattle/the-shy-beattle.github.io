@@ -9,7 +9,7 @@ tags:
 ---
 <i class="fa fa-graduation-cap"></i> I obtained my **Bachelor Degree in Petroleum Engineering** from the University of Oriente, and **Business Foundation Specialization** from the University of Pennsylvania - Wharton School. Philadelphia, PA.
 
-<i class="fa fa-briefcase"></i> **Freelance Online Tutor** Transtutors Get Answers| Get Unstuck | Study faster 2013 - 2016 . Tutored students to develop successful English business plans for the subjects scaling operations, management, and optimization. Guided students of engineering using a broad range of tools like **Matlab** and **Wolframalpha**. Native Speaker. Helped students to write their assignments, related to literature and arts.
+<i class="fa fa-briefcase"></i> **Freelance Online Tutor** Transtutors Get Answers| Get Unstuck | Study faster 2013 - 2016 . Tutored students to develop successful English business plans for the subjects scaling operations, management, and optimization. Guided students of engineering using a broad range of tools like **Matlab** and **Wolframalpha**. Native Speaker. Helped students to write their assignments, related to literature and arts..
 
 <i class="fa fa-code"></i> I enjoy coding and managing the lifecycle of projects, materializing my ideas on fully-working applications. **I love to build useful and cool stuff!**.
 
