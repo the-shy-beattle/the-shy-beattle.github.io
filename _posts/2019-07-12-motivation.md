@@ -2,7 +2,7 @@
 layout: Post
 title: Motivation
 subtitle: Five steps to get yourself unstuck in the middle
-bigimg:"/img/path.png"
+bigimg: "/img/path.png"
 tags: - motivation - steps
 
 ---
