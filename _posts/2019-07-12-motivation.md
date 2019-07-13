@@ -3,6 +3,7 @@ layout: Post
 title: Motivation
 subtitle: Five steps to get yourself unstuck in the middle
 bigimg: "/img/path.png"
+tag: - motivation
 
 ---
 For a time, like many, I thought we had to focus ourselves on the outcome. It is easy to get caught in the joy of daydreaming, that sense of breathtaking possibility about what it might happen if we succeed. However, visualizing ourselves achieving our goals will not make the path in between less blurry.
