@@ -2,7 +2,7 @@
 layout: page
 title: Summary
 subtitle: ''
-bigimg: "/cv.png"
+bigimg: "/img/cv.png"
 tags: []
 
 ---
