@@ -1,5 +1,5 @@
 ---
-label: template
+label: postick
 hide_body: false
 fields:
 - type: text
@@ -14,6 +14,3 @@ fields:
 - type: file
   name: bigimg
   label: bigimg
-- type: list
-  name: tags
-  label: tags
