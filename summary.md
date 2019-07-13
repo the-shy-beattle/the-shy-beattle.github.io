@@ -6,6 +6,8 @@ bigimg: "/img/cv.png"
 tags: [resume]
 
 ---
+
+
 <i class="fa fa-briefcase about-icon"></i>   **Freelance Online Tutor** Transtutors Get Answers| Get Unstuck | Study faster 2013 - 2016 . Tutored students to develop successful English business plans for the subjects scaling operations, management, and optimization. Guided students of engineering using a broad range of tools like **Matlab and wolframalpha**. Native Speaker. Helped students to write their assignments, related to literature and arts.
 
 <i class="fa fa-graduation-cap"></i> I obtained my **Bachelor Degree in Petroleum Engineering** from the University of Oriente, and **Business foundation specialization** from the University of Pennsylvania - Wharton School. Philadelphia, PA.
