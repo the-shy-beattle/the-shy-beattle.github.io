@@ -6,9 +6,9 @@ bigimg: "/cv.png"
 tags: []
 
 ---
-<i class="fa fa-briefcase"></i>  
+<i class="fa fa-briefcase"></i>
 
- Currently I am working as **Web Engineer** at [CERN](https://home.cern/ "European Organization for Nuclear Research")(Switzerland). Previously I worked as a **freelance web developer**, building amazing projects for several companies and also on a startup, Adama Web).
+Currently I am working as **Web Engineer** at [CERN](https://home.cern/ "European Organization for Nuclear Research")(Switzerland). Previously I worked as a **freelance web developer**, building amazing projects for several companies and also on a startup, Adama Web).
 
 <i class="fa fa-graduation-cap"></i>   I obtained my **Master Degree in Web Engineering** and my **Bachelor in Computer Science** from the University of Oviedo. My Masters thesis was "[Codesnug: Code storage social tool](https://goo.gl/bcvkrw "Codesnug: Code storage social tool")"", obtaining the grade of "Excelent".
 
