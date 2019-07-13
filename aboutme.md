@@ -2,7 +2,7 @@
 layout: page
 title: ''
 subtitle: 
-bigimg: "/img/path.png"
+bigimg: "/img/profile.jpg"
 
 ---
 Hey, I’m Karina. I’m a petroleum engineering.
