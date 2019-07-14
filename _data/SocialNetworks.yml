@@ -9,12 +9,12 @@
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
-  icon: "fab-facebook"
+  icon: "fa-facebook"
 
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
-  icon: "fab-github"
+  icon: "fa-github"
 
 twitter:
   name: "Twitter"
@@ -54,7 +54,7 @@ snapchat:
 instagram:
   name: "Instagram"
   baseURL: "https://www.instagram.com/"
-  icon: "fab-instagram"
+  icon: "fa-instagram"
 
 youtube:
   name: "YouTube"
