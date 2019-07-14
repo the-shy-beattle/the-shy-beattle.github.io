@@ -14,5 +14,3 @@ fields:
 - type: file
   name: bigimg
   label: bigimg
-pages:
-- quizlet.md
