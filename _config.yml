@@ -22,7 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Resources: 
-    - Quizlet : "https://hyperparameters.ml/2019-07-12-quizlet/"
+    - Quizlet : "quizlet"
   Cv's : "summary"
   Tag index : "tags"
   
