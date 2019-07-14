@@ -3,7 +3,6 @@ layout: post
 title: Quizlet
 subtitle: Learn System Dynamics in 15 minutes
 bigimg: "/sd.png"
-published: false
 
 ---
 [ds2002_lp_banner_1200x260_1.png?itok=jxq7Vm-o](https://www.tes.com/sites/default/files/styles/dimensions_1200x260/public/ds2002_lp_banner_1200x260_1.png?itok=jxq7Vm-o "ds2002_lp_banner_1200x260_1.png?itok=jxq7Vm-o")
