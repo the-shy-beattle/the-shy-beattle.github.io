@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summary
+title: Summary_es
 subtitle: ''
 bigimg: "/img/cv.png"
 tags:
