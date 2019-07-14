@@ -14,5 +14,3 @@ fields:
 - type: boolean
   name: use-site-title
   label: use-site-title
-pages:
-- all-quizlet-slides.md
