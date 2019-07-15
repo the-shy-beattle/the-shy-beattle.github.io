@@ -12,7 +12,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text"> <span class="fa fa-graduation-cap about-icon"></span> Obtuve mi <b> Ingeniería del Petróleo</b> en la Universidad de Oriente, y <b>La especializacion en Nociones empresariales</b> en la  Universidad de Pensilvania - UPenn.</p>
 
-<p class="about-text"> <span class="fa fa-trophy about-icon"></span> Concurso "The Stock Market Competition" <b>4th</b> lugar en el <b>ranking de rendimiento</b>en la  La Universidad de Múnich Ludwig-Maximilians  y el  Instituto para el Comercio Electrónico y los Mercados Digitales  2014.</p>
+<p class="about-text"> <span class="fa fa-trophy about-icon"></span> Concurso "The Stock Market Competition" <b>4th</b> lugar en el <b>ranking de rendimiento</b> en la  La Universidad de Múnich Ludwig-Maximilians  y el  Instituto para el Comercio Electrónico y los Mercados Digitales  2014.</p>
 
 <p class="about-text"> <span class="fa fa-briefcase about-icon"></span> <b>Freelance Online Tutor</b> en Transtutors  2013-2016. Realice tutorias a estudiantes para desarrollar de manera exitosa un plan de negocios para la materias Gestion de Operaciones y Optimizacion . Guie a estudiantes de ingenieria usando una gama de herramientas como <b>Matlab</b>y <b>Wolframalpha</b>.  </p>
 
