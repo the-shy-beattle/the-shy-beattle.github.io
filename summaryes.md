@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summary_es
+title: Resumen
 subtitle: ''
 bigimg: "/img/cv.png"
 tags:
@@ -10,13 +10,9 @@ css: "/css/aboutme.css"
 ---
 <div id="aboutme-section">
 
-<p class="about-text">
-<span class="fa fa-graduation-cap about-icon"></span>
-I obtained my <b>Bachelor  in Petroleum Engineering</b> from the University of Oriente, and <b>Business Foundation Specialization</b> from the University of Pennsylvania - Wharton School. Philadelphia, PA.</p>
+<p class="about-text"> <span class="fa fa-graduation-cap about-icon"></span> Obtuve mi <b>Ingeniería del Petróleo</b> en la Universidad de Oriente, y <b>La especializacion en Nociones empresiales</b>en la  Universidad de Pensilvania - UPenn , PA.</p>
 
-<p class="about-text">
-<span class="fa fa-trophy about-icon"></span>
-Contest The Stock Market  Competition <b>4th</b> place in the <b>performance ranking</b> by  Ludwig-Maximilians Universität-München  and the Institute for Electronic Commerce and Digital Markets 2014.</p>
+<p class="about-text"> <span class="fa fa-trophy about-icon"></span> Concurso "The Stock Market Competition" <b>4th</b> lugar en el <b>en el ranking de rendimiento</b>en la  La Universidad de Múnich Ludwig-Maximilians  y el  Instituto para el Comercio Electronico y los Mercados Digitales  2014.</p>
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
