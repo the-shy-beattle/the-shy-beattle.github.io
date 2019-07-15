@@ -19,16 +19,11 @@ css: "/css/aboutme.css"
 <b>Freelance Online Tutor</b> on Transtutors Get Answers. Get Unstuck. Study Faster 2013-2016. Tutored students to develop successful English business plans for the subjects scaling operations, management, and optimization. Guided students of engineering using a broad range of tools like <b>Matlab</b> and <b>Wolframalpha</b>. Native Speaker. Helped students to write their assignments, related to literature and arts.
 </p>
 
-<p class="about-text">
-<span class="fa fa-code about-icon"></span>
-I enjoy coding and managing the lifecycle of projects, materializing my ideas on fully-working applications. <b>I love to build useful and cool stuff!</b>.
-</p>
+<p class="about-text"> <span class="fa fa-code about-icon"></span> Me gusta programar y gestionar todo el ciclo de vida de aplicaciones, materializando mis ideas en aplicaciones completamente funcionales. <b>¡Me encanta crear cosas útiles y geniales</b>. </p>
 
-<p class="about-text">
-<span class="fa fa-heart about-icon"></span>
-I like to go to <b>Skate</b>, and, weekend travels, playing video games and also role play board games.</p>
+<p class="about-text"> <span class="fa fa-heart about-icon"></span> Me gusta ir a <b>Patinar</b>, los viajes de fin de semana, jugar videojuegos y  jugar calabozos y dragones D&D.</p>
 
-<p class="about-text"> <span class="fa fa-globe about-icon"></span> Growing up in Monagas, Venezuela , siempre he sido una <b>entusiasta de la   
+<p class="about-text"> <span class="fa fa-globe about-icon"></span> Crecí en Monagas, Venezuela. Siempre he sido una <b>entusiasta de la   
 tecnología</b>, así  que decidi  seguir mi propio camino hacia  la Ciencia de Datos y  inteligencia Artificial. <b> Lifelong learner.</b></p>
 
 <p class="about-text"> <span class="fa fa-linkedin about-icon"></span> Si quieres contactarme puedes hacerlo a través del <a href="https://www.linkedin.com/in/kcss">LinkedIn</a>  o buscarme en el  <a href="https://twitter.com/Zzzrayos">Twitter</a> . No dude en enviar un mensaje, siempre estoy abierta a nuevas  oportunidades!</p>
