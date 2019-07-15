@@ -1,0 +1,72 @@
+global:
+  spanish: Español
+  english: English
+  theme: Tema
+  you_are: You are on the english version
+  # Name of website
+  title: Rene Fernandez Sanchez
+  # Short description of your site
+  description: Web Software Engineer from Spain, Asturias. Focused on
+  select_language: "Cambia el idioma:"
+pages:
+  home: Home
+  work: Work
+
+index:
+  work_paragraph: 'Currently I am working as <strong>Web Engineer</strong> at
+                  <a href="https://home.cern.ch">CERN</a> (Switzerland).
+                   Previously I worked as a <strong>freelance web developer</strong>, building
+                    amazing projects for several companies and also
+                    on a startup (<a href="http://adamaweb.com">Adama Web</a>).'
+  aboutme_paragraph: 'My name is <span itemprop="name">René Fernández</span> and
+                      I am a <span itemprop="jobtitle">Web Engineer</span>.
+                      In this site you can find some information about my
+                      professional and personal activity.'
+  studies_paragraph: 'Obtained my <strong>Masters Degree on Web Engineering</strong>
+                      and my <strong>Bachelor in Computer Science</strong> from
+                      the University of Oviedo. My Masters
+                      thesis was "<a href="https://goo.gl/bcvkrw"
+                      title="Codesnug: Code storage social tool">
+                      Codesnug: Code storage social tool</a>",
+                      obtaining the grade of "Excelent".'
+  code_paragraph: 'I enjoy coding and managing the lyfecycle of projects, materializing my ideas on
+                  fully-working applications. <strong>I love to build useful and cool stuff!</strong>'
+  free_time_paragraph: 'I like to go hiking, taking pictures, weekend travels,
+                        playing video games and also writing on my blog.'
+  projects_paragraph: 'You can checkout some of my previous projects on the
+                      projects page (Actually only those I am prouder of :))'
+  more_info_paragraph: 'Grew up in Asturias, Spain, I have been always a <strong>technology enthusiastic</strong> so
+                        I decided to study computer science. After finishing my
+                        studies I moved to Geneva, Switzerland, to continue my career
+                        on the IT field.'
+  contact:
+      title: Contact
+      first_paragraph: 'If you want to contact me you can <a href="mailto:hola@renefernandez.com?subject=Hello
+                        from renefernandez.com">email me</a> or find me
+                        <a href="https://twitter.com/the_rocker">on Twitter</a>.
+                        Do not hesitate to send a message, I am always open to new and exciting opportunities!'
+      form_paragraph: 'You can also send me a quick message using the form below'
+      email_field: 'Email'
+      name_field: 'Name'
+      message_field: 'Message'
+      submit_button: 'Submit'
+titles:
+  home: René Fernández Sánchez personal website | Home
+  projects: Projects | René Fernández Sánchez personal website
+
+descriptions:
+  home: René is a web software Enginner
+  projects: Projects developed by Rene Fernandez Sanchez
+
+headers:
+  home: "Hola!, I'm René"
+  projects: "Projects"
+
+subheaders:
+  home: Welcome to my personal website.
+  projects: This is what I do
+
+navbar:
+  aboutme: "About me"
+  projects: "Projects"
+  contactme: "Contact me"
