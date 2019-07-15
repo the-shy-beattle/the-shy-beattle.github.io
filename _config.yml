@@ -25,7 +25,7 @@ navbar-links:
     - Quizlet : "quizlet"
   Cv's : 
   - Summary : "summary"
-  - Resumen : "summaryes"
+  - Resumen : "resume"
   Tag index : "tags"
   
 # Image to show in the navigation bar - image must be a square (width = height)
