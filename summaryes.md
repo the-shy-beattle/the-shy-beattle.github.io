@@ -21,6 +21,6 @@ css: "/css/aboutme.css"
 <p class="about-text"> <span class="fa fa-heart about-icon"></span> Me gusta ir a <b>Patinar</b>, los viajes de fin de semana, jugar videojuegos y  jugar calabozos y dragones D&D.</p>
 
 <p class="about-text"> <span class="fa fa-globe about-icon"></span> Crecí en Monagas, Venezuela. Siempre he sido una <b>entusiasta de la   
-tecnología</b>, así  que decidi  seguir mi propio camino hacia  la Ciencia de Datos y  inteligencia Artificial. <b> Formacion continua.</b></p>
+tecnología</b>, así  que decidi  seguir mi propio camino hacia  la Ciencia de Datos y  inteligencia Artificial. <b> Formación continua.</b></p>
 
 <p class="about-text"> <span class="fa fa-linkedin about-icon"></span> Si quieres contactarme puedes hacerlo a través del <a href="https://www.linkedin.com/in/kcss">LinkedIn</a>  o buscarme en el  <a href="https://twitter.com/Zzzrayos">Twitter</a> . No dude en enviar un mensaje, siempre estoy abierta a nuevas  oportunidades!</p>
