@@ -10,7 +10,7 @@ css: "/css/aboutme.css"
 ---
 <div id="aboutme-section">
 
-<p class="about-text"> <span class="fa fa-graduation-cap about-icon"></span> Obtuve mi <b>Ingeniería del Petróleo</b> en la Universidad de Oriente, y <b>La especializacion en Nociones empresiales</b>en la  Universidad de Pensilvania - UPenn , PA.</p>
+<p class="about-text"> <span class="fa fa-graduation-cap about-icon"></span> Obtuve mi <b>Ingeniería del Petróleo</b> en la Universidad de Oriente, y <b>La especializacion en Nociones empresiales</b> en la  Universidad de Pensilvania - UPenn , PA.</p>
 
 <p class="about-text"> <span class="fa fa-trophy about-icon"></span> Concurso "The Stock Market Competition" <b>4th</b> lugar en el <b>ranking de rendimiento</b>en la  La Universidad de Múnich Ludwig-Maximilians  y el  Instituto para el Comercio Electrónico y los Mercados Digitales  2014.</p>
 
