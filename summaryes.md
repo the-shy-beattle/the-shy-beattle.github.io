@@ -14,7 +14,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text"> <span class="fa fa-trophy about-icon"></span> Concurso "The Stock Market Competition" <b>4th</b> lugar en el <b>ranking de rendimiento</b> en la  La Universidad de Múnich Ludwig-Maximilians  y el  Instituto para el Comercio Electrónico y los Mercados Digitales  2014.</p>
 
-<p class="about-text"> <span class="fa fa-briefcase about-icon"></span> <b>Freelance Online Tutor</b> en Transtutors  2013-2016. Realicé tutorias a estudiantes para desarrollar de manera exitosa un plan de negocios para las materias  Gestión de Operaciones y Optimización . Guíe a estudiantes de ingenieria usando una gama de herramientas como <b>Matlab</b>y <b>Wolframalpha</b>. </p>
+<p class="about-text"> <span class="fa fa-briefcase about-icon"></span> <b>Freelance Online Tutor</b> en Transtutors  2013-2016. Realicé tutorias a estudiantes para desarrollar de manera exitosa un plan de negocios para las materias  Gestión de Operaciones y Optimización . Guíe a estudiantes de ingenieria usando una gama de herramientas como <b>Matlab</b> y <b>Wolframalpha</b>. </p>
 
 <p class="about-text"> <span class="fa fa-code about-icon"></span> Me gusta programar y gestionar todo el ciclo de vida de aplicaciones, materializando mis ideas en aplicaciones completamente funcionales. <b>¡Me encanta crear cosas útiles y geniales!</b>.</p>
 
