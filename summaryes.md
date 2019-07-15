@@ -28,10 +28,7 @@ I enjoy coding and managing the lifecycle of projects, materializing my ideas on
 <span class="fa fa-heart about-icon"></span>
 I like to go to <b>Skate</b>, and, weekend travels, playing video games and also role play board games.</p>
 
-<p class="about-text">
-<span class="fa fa-globe about-icon"></span>
-Growing up in Monagas, Venezuela , I have always been a <b>technology enthusiast</b>, so I decided to follow my own path towards Data Science and ML. <b> Lifelong learner.</b></p>
+<p class="about-text"> <span class="fa fa-globe about-icon"></span> Growing up in Monagas, Venezuela , siempre he sido una <b>entusiasta de la   
+tecnología</b>, así  que decidi  seguir mi propio camino hacia  la Ciencia de Datos y  inteligencia Artificial. <b> Lifelong learner.</b></p>
 
-<p class="about-text">
-<span class="fa fa-linkedin about-icon"></span>
-If you want to contact me you can contact me though <a href="https://www.linkedin.com/in/kcss">LinkedIn</a>  or find me on <a href="https://twitter.com/Zzzrayos">Twitter</a> . Do not hesitate to send a message, I am always open to new and exciting opportunities!</p>
+<p class="about-text"> <span class="fa fa-linkedin about-icon"></span> Si quieres contactarme puedes hacerlo a través del <a href="https://www.linkedin.com/in/kcss">LinkedIn</a>  o buscarme en el  <a href="https://twitter.com/Zzzrayos">Twitter</a> . No dude en enviar un mensaje, siempre estoy abierta a nuevas  oportunidades!</p>
