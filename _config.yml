@@ -52,8 +52,21 @@ footer-link-col: "#A6281C"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
+css:
+  - "/css/main.css"
+  - "/css/particle-js-style.css"
+js:
+  - "/js/particles.min.js"
+  - "/js/particles-config.js"
 
-# navbar-img: "/img/bgimage.png"
+navbar-img:
+<body>
+
+  <div class="mobile-js-hide">
+    <!-- particles.js container -->
+    <div id="particles-js"></div>
+  </div>
+
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
