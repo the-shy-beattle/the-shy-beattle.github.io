@@ -23,4 +23,4 @@ css: "/css/aboutme.css"
 
 tecnología</b>, así que decidi seguir mi propio camino hacia la Ciencia de Datos y inteligencia Artificial. <b> Formación continua.</b></p>
 
-<p class="about-text"> <span class="fa fa-linkedin about-icon"></span> Si quieres contactarme puedes hacerlo a través del <a href="[https://www.linkedin.com/in/kcss](https://www.linkedin.com/in/kcss "https://www.linkedin.com/in/kcss")">LinkedIn</a> o buscarme en el <a href="[https://twitter.com/Zzzrayos](https://twitter.com/Zzzrayos "https://twitter.com/Zzzrayos")">Twitter</a> . ¡No dudes en enviar un mensaje, siempre estoy abierta a nuevas y emocionantes oportunidades!</p>
+<p class="about-text"> <span class="fa fa-linkedin about-icon"></span> Si quieres contactarme puedes hacerlo a través del <a href="https://www.linkedin.com/in/kcss">LinkedIn</a> o buscarme en el <a href="https://twitter.com/Zzzrayos">Twitter</a> . ¡No dudes en enviar un mensaje, siempre estoy abierta a nuevas y emocionantes oportunidades!</p>
