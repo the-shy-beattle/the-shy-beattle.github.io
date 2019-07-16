@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 subtitle: ''
-bigimg: "img/cv.png"
+bigimg:"img/cv.png"
 tags: []
 css: "/css/aboutme.css"
 
