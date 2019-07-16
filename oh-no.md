@@ -1,10 +1,9 @@
 ---
 layout: page
-title: oh no
+title: ''
 subtitle: ''
 bigimg: ''
 tags: []
 css: ''
 
 ---
-hey
