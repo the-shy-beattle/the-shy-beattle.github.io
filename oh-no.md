@@ -1,10 +1,11 @@
 ---
 layout: page
-title: 
-subtitle:
+title: ''
+subtitle: ''
 use-site-title: false
 bigimg: ''
-tags: []
+tags:
+- motivation
 css: ''
 
 ---
