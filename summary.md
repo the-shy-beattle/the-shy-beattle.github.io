@@ -36,6 +36,4 @@ I like to go to <b>Skate</b>, and, weekend travels, playing video games and also
 <span class="fa fa-globe about-icon"></span>
 Growing up in Monagas, Venezuela , I have always been a <b>technology enthusiast</b>, so I decided to follow my own path towards Data Science and ML. <b> Lifelong learner.</b></p>
 
-<p class="about-text">
-<span class="fa fa-linkedin about-icon"></span>
-If you want to contact me you can contact me though <a href="https://www.linkedin.com/in/kcss">LinkedIn</a>  or find me on <a href="https://twitter.com/Zzzrayos">Twitter</a> . Do not hesitate to send a message, I am always open to new and exciting opportunities!</p>
+<p class="about-text"> <span class="fa fa-linkedin about-icon"></span> If you want to contact me you can contact me though <ahref="https://www.linkedin.com/in/kcss">LinkedIn</a>  or find me on <ahref="https://twitter.com/Zzzrayos">Twitter</a> . Do not hesitate to send a message, I am always open to new and exciting opportunities!</p>
