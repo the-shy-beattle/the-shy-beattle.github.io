@@ -11,7 +11,8 @@ css:
 js:
   - "/js/particles.min.js"
   - "/js/particles-config.js"
- bigimg: 
+ bigimg:
+ 
  <body>
 
   <div class="mobile-js-hide">
