@@ -14,3 +14,5 @@ fields:
 - type: file
   name: bigimg
   label: bigimg
+pages:
+- _posts/random-post.md
