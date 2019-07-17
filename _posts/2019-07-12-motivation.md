@@ -36,5 +36,3 @@ We might assume that getting the big picture about our goals is going to bring u
 If reaching a goal requires steps A, B, and C, to define the tasks for each step is fundamental, so we won't go and start blending all at the cost of spending vast amounts of energy and obtain poor results.  
 Framing our perspective to simplify the number of tasks we must perform per  
 step and executing in a period is undoubtedly a better way to attain our goals. In other words: Avoid multi-tasking.
-
-    {% giphy welcome %}
