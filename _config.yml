@@ -260,7 +260,7 @@ languages:          ['en', 'cn']
 # If not config, the first item of languages will be used as the default.
 language_default:   'en'
 
- gems:  [jekyll-giphy]
+                  [jekyll-giphy]
 
 
 plugins:
