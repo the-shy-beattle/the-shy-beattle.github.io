@@ -1,5 +1,5 @@
 ---
-label: postick
+label: python red not boxes
 hide_body: false
 fields:
 - type: text
@@ -11,6 +11,6 @@ fields:
 - type: text
   name: subtitle
   label: subtitle
-- type: file
-  name: bigimg
-  label: bigimg
+- type: textarea
+  name: preview
+  label: preview
