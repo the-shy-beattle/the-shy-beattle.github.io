@@ -260,11 +260,14 @@ languages:          ['en', 'cn']
 # If not config, the first item of languages will be used as the default.
 language_default:   'en'
 
+ gems:  [jekyll-giphy]
+
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-multiple-languages
+  - jekyll-giphy
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
