@@ -5,4 +5,7 @@ subtitle: ''
 bigimg: ''
 
 ---
-    {% giphy random_word %}
+{% giphy random_word %}
+
+
+{% giphy welcome %}
