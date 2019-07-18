@@ -12,8 +12,8 @@
   position: absolute;
   left: -40px;
   margin-top: 5px;
-.fa: hover;
-  color:#FBBC04;
+.fa-lightbulb-o:hover {
+    color: #FBBC04;
 }
 }
 
