@@ -2,7 +2,7 @@
 layout: ''
 title: trying
 subtitle: ''
-bigimg: ''
+bigimg: "/cv.png"
 tags: []
 css: "/css/nerd.css"
 
