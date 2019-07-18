@@ -5,7 +5,7 @@ subtitle: ''
 bigimg: "/img/cv.png"
 tags:
 - resume
-css: "/css/aboutme.css"
+css: "/css/nerd.css"
 
 ---
 <div id="aboutme-section">
