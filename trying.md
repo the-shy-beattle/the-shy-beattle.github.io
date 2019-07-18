@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: trying
 subtitle: ''
 bigimg: "/cv.png"
