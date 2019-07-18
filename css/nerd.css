@@ -12,11 +12,12 @@
   position: absolute;
   left: -40px;
   margin-top: 5px;
-.fa-lightbulb-o: hover {
+}
+{
+  .fa fa-lightbulb-o:hover{
     color: #FBBC04;
 }
-}
-
+    
 #aboutme-section p:last-child {
   margin-bottom: 0;
 }
