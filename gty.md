@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summary
+title: gty
 subtitle: ''
 bigimg: "/img/cv.png"
 tags:
