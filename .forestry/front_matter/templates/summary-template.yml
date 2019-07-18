@@ -21,4 +21,5 @@ fields:
   name: css
   label: css
 pages:
+- trying.md
 - resume.md
