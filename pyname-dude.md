@@ -16,8 +16,10 @@ An iterator is a datatype that represents a stream of data which will, when iter
 ## Onto the List
 
 
-<a href="https://www.google.com/"><span class="fa fa-lightbulb-o icon icon-background2"></span><p class="text">
- Pro tip</p></a>
+<p class="text">
+<a href="https://www.google.com/"><span class="fa fa-lightbulb-o icon icon-background2"></span>
+ Pro tip</a></p>
+ 
 A `list` is exactly how it sounds - just a list of things. In other programming languages the equivalent datatype would be an `array`, however an `array` would be of a fixed length and only capable of storing elements of the same type. Python does not have this restriction, a `list` can grow in size as more elements are added to it and it is able to store objects of different types.
 
 List indices start at 0 and are constructed with square brackets, separating items with a comma like `[42, 'magrathea']` or if you already have a sequence you are able to call `list()` on it.
