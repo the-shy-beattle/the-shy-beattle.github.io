@@ -1,4 +1,12 @@
 
+{
+  font-size: 19px;
+}
+
+.text {
+  position: relative;
+  margin-left: 30px;
+}
 .icon {
 font-size: 24px;
 }
@@ -10,5 +18,4 @@ font-size: 24px;
 }  
 .fa-lightbulb-o:hover {
     color: #FBBC04;
-}
 }
