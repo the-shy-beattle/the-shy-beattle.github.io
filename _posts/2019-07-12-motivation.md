@@ -37,4 +37,4 @@ If reaching a goal requires steps A, B, and C, to define the tasks for each step
 Framing our perspective to simplify the number of tasks we must perform per  
 step and executing in a period is undoubtedly a better way to attain our goals. In other words: Avoid multi-tasking.
 
-![](/uploads/ART_Motivati.png)
+![](/uploads/5d66b02f026fa.png)
