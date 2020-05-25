@@ -14,3 +14,5 @@ fields:
 - type: textarea
   name: preview
   label: preview
+pages:
+- _posts/residential-outdoors.md
