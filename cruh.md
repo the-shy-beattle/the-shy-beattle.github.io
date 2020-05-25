@@ -1,7 +1,6 @@
 ---
 layout: ''
-title: ''
-published: false
+title: resg
 
 ---
 # Residential Outdoor and Landscaping Water Use
