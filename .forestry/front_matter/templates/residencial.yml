@@ -14,5 +14,3 @@ fields:
 - type: textarea
   name: preview
   label: preview
-pages:
-- _posts/2020-05-25-residential-outdoors.md
